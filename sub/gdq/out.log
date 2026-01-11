@@ -1,0 +1,106 @@
+
+Executing Task A scoring program
+ Processing submitted files
+Scoring submission for AdMIRe Subtask A; language: SR, test phase
+ Reading reference data
+ Reading submission data
+ Checking top 1 accuracy
+ Checking rank correlation
+ Checking DCG scores
+ Scores for SR:
+{'acc_all': 0.4049586776859504, 'acc_lit': 0.5819209039548022, 'acc_id': 0.23655913978494625, 'corr_all': 0.12837465564738293, 'corr_lit': 0.26440677966101706, 'corr_id': -0.0010752688172043084, 'dcg_all': 0.746687197029943, 'dcg_lit': 0.849555441733807, 'dcg_id': 0.6487964480375567}
+Scoring submission for AdMIRe Subtask A; language: EL, test phase
+ Reading reference data
+ Reading submission data
+ Checking top 1 accuracy
+ Checking rank correlation
+ Checking DCG scores
+ Scores for EL:
+{'acc_all': 0.44711538461538464, 'acc_lit': 0.6634615384615384, 'acc_id': 0.23076923076923078, 'corr_all': 0.2153846153846153, 'corr_lit': 0.33365384615384613, 'corr_id': 0.09711538461538465, 'dcg_all': 0.7839011137702896, 'dcg_lit': 0.8980811248772956, 'dcg_id': 0.6697211026632852}
+Scoring submission for AdMIRe Subtask A; language: KK, test phase
+ Reading reference data
+ Reading submission data
+ Checking top 1 accuracy
+ Checking rank correlation
+ Checking DCG scores
+ Scores for KK:
+{'acc_all': 0.4551282051282051, 'acc_lit': 0.5740740740740741, 'acc_id': 0.39215686274509803, 'corr_all': 0.2224358974358974, 'corr_lit': 0.42962962962962964, 'corr_id': 0.11274509803921563, 'dcg_all': 0.7878354182202875, 'dcg_lit': 0.8490958645324974, 'dcg_id': 0.7554034172314711}
+Scoring submission for AdMIRe Subtask A; language: SL, test phase
+ Reading reference data
+ Reading submission data
+ Checking top 1 accuracy
+ Checking rank correlation
+ Checking DCG scores
+ Scores for SL:
+{'acc_all': 0.5166666666666667, 'acc_lit': 0.6666666666666666, 'acc_id': 0.36666666666666664, 'corr_all': 0.2520833333333334, 'corr_lit': 0.3516666666666667, 'corr_id': 0.15249999999999997, 'dcg_all': 0.8119740206511515, 'dcg_lit': 0.8844510877624425, 'dcg_id': 0.739496953539862}
+Scoring submission for AdMIRe Subtask A; language: RU, test phase
+ Reading reference data
+ Reading submission data
+ Checking top 1 accuracy
+ Checking rank correlation
+ Checking DCG scores
+ Scores for RU:
+{'acc_all': 0.5357142857142857, 'acc_lit': 0.7419354838709677, 'acc_id': 0.3717948717948718, 'corr_all': 0.35214285714285726, 'corr_lit': 0.5354838709677417, 'corr_id': 0.20641025641025634, 'dcg_all': 0.800187785361952, 'dcg_lit': 0.8945170730313264, 'dcg_id': 0.7252080951632195}
+Scoring submission for AdMIRe Subtask A; language: KA, test phase
+ Reading reference data
+ Reading submission data
+ Checking top 1 accuracy
+ Checking rank correlation
+ Checking DCG scores
+ Scores for KA:
+{'acc_all': 0.39823008849557523, 'acc_lit': 0.54, 'acc_id': 0.2857142857142857, 'corr_all': 0.09203539823008848, 'corr_lit': 0.03799999999999997, 'corr_id': 0.13492063492063489, 'dcg_all': 0.7469481328360681, 'dcg_lit': 0.833596696258071, 'dcg_id': 0.6781794317074948}
+Scoring submission for AdMIRe Subtask A; language: UZ, test phase
+ Reading reference data
+ Reading submission data
+ Checking top 1 accuracy
+ Checking rank correlation
+ Checking DCG scores
+ Scores for UZ:
+{'acc_all': 0.38333333333333336, 'acc_lit': 0.4722222222222222, 'acc_id': 0.34523809523809523, 'corr_all': 0.23000000000000004, 'corr_lit': 0.27222222222222214, 'corr_id': 0.21190476190476196, 'dcg_all': 0.7591396103765867, 'dcg_lit': 0.8307823118284603, 'dcg_id': 0.7284355954686421}
+Scoring submission for AdMIRe Subtask A; language: NO, test phase
+ Reading reference data
+ Reading submission data
+ Checking top 1 accuracy
+ Checking rank correlation
+ Checking DCG scores
+ Scores for NO:
+{'acc_all': 0.4504950495049505, 'acc_lit': 0.61, 'acc_id': 0.29411764705882354, 'corr_all': 0.19554455445544547, 'corr_lit': 0.242, 'corr_id': 0.15000000000000002, 'dcg_all': 0.7906045764475907, 'dcg_lit': 0.8619626228473324, 'dcg_id': 0.7206457074282377}
+Scoring submission for AdMIRe Subtask A; language: PT-PT, test phase
+ Reading reference data
+ Reading submission data
+ Checking top 1 accuracy
+ Checking rank correlation
+ Checking DCG scores
+ Scores for PT-PT:
+{'acc_all': 0.4409090909090909, 'acc_lit': 0.6509433962264151, 'acc_id': 0.24561403508771928, 'corr_all': 0.2022727272727272, 'corr_lit': 0.3198113207547169, 'corr_id': 0.09298245614035086, 'dcg_all': 0.7685553631220357, 'dcg_lit': 0.8837354195752093, 'dcg_id': 0.6614581176480339}
+Scoring submission for AdMIRe Subtask A; language: TR, test phase
+ Reading reference data
+ Reading submission data
+ Checking top 1 accuracy
+ Checking rank correlation
+ Checking DCG scores
+ Scores for TR:
+{'acc_all': 0.38461538461538464, 'acc_lit': 0.4444444444444444, 'acc_id': 0.34545454545454546, 'corr_all': 0.128021978021978, 'corr_lit': 0.14722222222222223, 'corr_id': 0.11545454545454555, 'dcg_all': 0.7523772213292649, 'dcg_lit': 0.7884319547583627, 'dcg_id': 0.7287777594484013}
+Scoring submission for AdMIRe Subtask A; language: PT-BR, test phase
+ Reading reference data
+ Reading submission data
+ Checking top 1 accuracy
+ Checking rank correlation
+ Checking DCG scores
+ Scores for PT-BR:
+{'acc_all': 0.5394736842105263, 'acc_lit': 0.7017543859649122, 'acc_id': 0.37719298245614036, 'corr_all': 0.22412280701754375, 'corr_lit': 0.2894736842105261, 'corr_id': 0.15877192982456134, 'dcg_all': 0.8223433148448429, 'dcg_lit': 0.9130121559448066, 'dcg_id': 0.7316744737448805}
+Scoring submission for AdMIRe Subtask A; language: ZH, test phase
+ Reading reference data
+ Reading submission data
+ Checking top 1 accuracy
+ Checking rank correlation
+ Checking DCG scores
+ Scores for ZH:
+{'acc_all': 0.3463687150837989, 'acc_lit': 0.38271604938271603, 'acc_id': 0.3163265306122449, 'corr_all': 0.09776536312849166, 'corr_lit': 0.1271604938271605, 'corr_id': 0.07346938775510202, 'dcg_all': 0.7303792076653474, 'dcg_lit': 0.7488819041039347, 'dcg_id': 0.7150861626497805}
+Scoring submission for AdMIRe Subtask A; language: IG, test phase
+ Reading reference data
+ Reading submission data
+ Submission data error: unexpected length (got 165, expected 115)
+Please review the submitted data and resubmit. If you are unable to resolve this issue, please contact the task organisers.
+ Languages present in score dictionary:
+dict_keys(['zh', 'ka', 'el', 'ig', 'kk', 'no', 'pt-br', 'pt-pt', 'ru', 'sr', 'sk', 'sl', 'es', 'tr', 'uz'])
